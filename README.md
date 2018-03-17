@@ -44,7 +44,7 @@ We provide compiled CSS and JS (`theme.*`), as well as compiled and minified CSS
 
 ## Authors
 
-**Alexis Enache**
+****
 
 + <http://webpixels.io>
 + <http://instagram.com/webpixelsofficial>
