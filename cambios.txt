@@ -1,0 +1,6 @@
+16-03-2018
+-Se agrega js moveancla.js , para poder realizar el desplazamiento desde e menu hacia las secciones del sitio 
+se agregan los id ancla y el ref en el tag de menu.
+-Se agrega el boton top , se agrega la imagen cd-top-arrow.svg la flecha , se agrega el js backtop.js y el css backtop.js 
+
+17-03-2018
